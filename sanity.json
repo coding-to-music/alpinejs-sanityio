@@ -1,11 +1,11 @@
 {
   "root": true,
+  "api": {
+    "projectId": "466m42t2",
+    "dataset": "production"
+  },
   "project": {
     "name": "alpine-sanity"
-  },
-  "api": {
-    "projectId": "nhksjapu",
-    "dataset": "production"
   },
   "plugins": [
     "@sanity/base",
